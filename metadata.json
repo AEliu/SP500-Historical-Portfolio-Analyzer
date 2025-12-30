@@ -1,0 +1,5 @@
+{
+  "name": "Historical Portfolio Analyzer",
+  "description": "A minimalist tool to backtest lump sum investment portfolio returns using historical S&P 500 and Bond data from 1928-2024.",
+  "requestFramePermissions": []
+}
