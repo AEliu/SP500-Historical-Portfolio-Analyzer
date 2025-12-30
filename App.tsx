@@ -31,7 +31,7 @@ const App: React.FC = () => {
       <header className="bg-white border-b border-slate-200 py-6 px-6 lg:px-12 mb-8">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold tracking-tight text-slate-900">一次性投资收益回测</h1>
+            <h1 className="text-2xl font-bold tracking-tight text-slate-900">梭哈 S&P500 投资收益</h1>
             <p className="text-slate-500 text-sm mt-1">基于 1928 - 2024 历史数据 (标普500 + 国债动态平衡，含红利再投资)</p>
           </div>
           <div className="mt-4 md:mt-0 text-xs text-slate-400 bg-slate-50 px-3 py-1 rounded-full border border-slate-100">
